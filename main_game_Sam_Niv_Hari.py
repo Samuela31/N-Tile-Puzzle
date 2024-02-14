@@ -1,16 +1,3 @@
-'''************************************************
-*                                                 *
-*                N-Tile Puzzle by                 *
-*                                                 *
-*      Samuela Abigail Mathew, 71762108039        *
-*              Nivetha S , 71762108030            *
-*             Haripriya V , 71762108011           *
-*                                                 *
-*              B.Tech AI&DS, 2nd year             *
-*        Coimbatore Institute of Technology       *
-*                                                 *
-************************************************'''
-
 import BFS
 import DFS
 import BEST

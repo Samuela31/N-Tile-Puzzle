@@ -1,19 +1,3 @@
-'''************************************************
-*                                                 *
-*       Best First Search Implementation by       *
-*             Samuela Abigail Mathew              *
-*                 71762108039                     *
-*                                                 *
-*                 Haripriya V                     *
-*                 71762108011                     *
-*               AI&DS, 2nd year                   *
-*                                                 *
-************************************************'''
-
-
-
-
-
 def move(tiles,goal):
     OPEN=[] #stores unvisited nodes; OPEN is priority queue 
     total_nodes=0 #gives total number of nodes expanded to reach solution

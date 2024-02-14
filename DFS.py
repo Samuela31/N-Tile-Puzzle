@@ -1,16 +1,3 @@
-'''**********************************
-*                                   *
-*       DFS Implementation by       *
-*      Samuela Abigail Mathew       *
-*          71762108039              *
-*         AI&DS, 2nd year           *
-*                                   *
-**********************************'''
-
-
-
-
-
 def move(tiles,goal):
     OPEN,CLOSED=[],[] #stores unvisited and visited nodes respectively; OPEN is stack and CLOSED is list
     total_nodes,cost=1,0 #gives total number of nodes expanded and total cost respectively to reach solution

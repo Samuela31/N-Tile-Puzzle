@@ -1,19 +1,3 @@
-'''****************************************
-*                                         *
-*       A* Search Implementation by       *
-*         Samuela Abigail Mathew          *
-*               71762108039               *
-*                                         *
-*               Nivetha S                 *
-*              71762108030                *
-*            AI&DS, 2nd year              *
-*                                         *
-****************************************'''
-
-
-
-
-
 def move(tiles,goal):
     OPEN,temp_sol=[],[] #stores unexplored paths and solution path found respectively; both are stacks
     total_nodes,f=1,0 #gives total number of nodes expanded and total cost respectively to reach goal state
